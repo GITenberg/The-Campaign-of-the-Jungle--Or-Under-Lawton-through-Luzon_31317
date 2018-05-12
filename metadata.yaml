@@ -1,0 +1,40 @@
+_repo: The-Campaign-of-the-Jungle--Or-Under-Lawton-through-Luzon_31317
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shute, A. B.
+    alias: Shute, A. Burnham
+    deathdate: 1906
+    gutenberg_agent_id: '26350'
+    url: http://www.gutenberg.org/2009/agents/26350
+covers:
+- cover_type: archival
+  image_path: 31317-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Ralph
+    - Bonehill, Captain Ralph
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2010-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Philippines -- History -- Philippine American War, 1899-1902 -- Juvenile
+  fiction'
+title: The Campaign of the Jungle; Or, Under Lawton through Luzon
+url: http://www.gutenberg.org/ebooks/31317
